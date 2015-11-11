@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleSQLite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="strStudentDetails">Student Details</string>
+    <string name="strEditRollno">Enter Rollno:</string>
+    <string name="strEditName">Enter Name:</string>
+    <string name="strEditMarks">Enter Marks:</string>
+
+    <string name="strBtnAdd">Add</string>
+    <string name="strBtnDelete">Delete</string>
+    <string name="strBtnModify">Modify</string>
+    <string name="strBtnView">View</string>
+    <string name="strBtnViewAll">View All</string>
+    <string name="strBtnShowInfo">Show</string>
+</resources>
