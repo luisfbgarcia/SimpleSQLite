@@ -3,7 +3,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string name="strStudentDetails">Student Details</string>
+    <string name="strStudentDetails">*** Student Details ***</string>
     <string name="strEditRollno">Enter Rollno:</string>
     <string name="strEditName">Enter Name:</string>
     <string name="strEditMarks">Enter Marks:</string>
